@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
   spec.source_files  = "Classes", "RxComposableArchitecture/**/*.{swift}"
   spec.exclude_files = "Classes/Exclude"
 
-  #spec.dependency 'RxSwift', '~> 5.0.0'
-  #spec.dependency 'RxCocoa', '~> 5.0.0'
-  #spec.dependency 'SwiftSpinner'
+  spec.dependency 'RxSwift'
+  spec.dependency 'RxCocoa'
+  spec.dependency 'SwiftSpinner'
 
   end
 
