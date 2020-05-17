@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/jrBordet/RxComposableArchitecture.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jean Raphael Bordet' => 'jr.bordet@gmail.it' }
-  s.source           = { :git => 'https://github.com/jrBordet/RxBinding.git', :tag => '1.0.0' }
+  s.source           = { :git => 'https://github.com/jrBordet/RxComposableArchitecture.git', :tag => '1.0.0' }
   spec.social_media_url   = "https://twitter.com/jrBordet"
 
   s.ios.deployment_target = '10.0'
