@@ -135,7 +135,6 @@ Pod::Spec.new do |spec|
   
   spec.dependency "RxSwift"
   spec.dependency "RxCocoa"
-  spec.dependency "SwiftSpinner"
 
 end
 
