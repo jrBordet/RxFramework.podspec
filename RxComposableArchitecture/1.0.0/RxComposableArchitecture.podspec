@@ -10,5 +10,5 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.dependency 'RxSwift'
   spec.dependency 'RxCocoa'
-
+  spec.ios.deployment_target = '10.0'
 end
